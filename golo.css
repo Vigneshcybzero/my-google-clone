@@ -1,0 +1,31 @@
+img{
+    position: relative;
+    top:180px;
+    left:440px;
+
+}
+
+.Gmail{
+    display:inline-block;
+    position: relative;
+    font-size: 15px;
+    text-align: right;
+    left:1100px;
+}
+.Images{
+    display:inline-block;
+    position: relative;
+    font-size: 15px;
+    text-align: right;
+    left:1108px;
+}
+.search{
+    position:relative;
+    left:410px;
+    top:160px;
+}
+button{
+    position: relative;
+    left:1125px;
+
+}
